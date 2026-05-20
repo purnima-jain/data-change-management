@@ -41,6 +41,14 @@
 			<artifactId>lombok</artifactId>
 		</dependency>
 		<!-- END: Lombok -->
+		
+		<!-- BEGIN: JSON Handling -->
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20251224</version>
+		</dependency>
+		<!-- END: JSON Handling -->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
